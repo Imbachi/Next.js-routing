@@ -1,0 +1,8 @@
+.div {
+    margin: 20px;
+    border: 1px solid #eee;
+    width: 500px;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 20px;
+    text-align: center;
+}
